@@ -22,6 +22,7 @@ These sites support the HEMI token, either only on the Hemi network, or in other
 - [Satori](https://trade.satori.finance/HEMI-USD) Trade the HEMI-USD pair with up to 10x leverage. [Official announcement](https://x.com/hemi_xyz/status/1915805202784883188).
 - [Stargate](https://stargate.finance/) Supports bridging the HEMI token to BSC. [Official announcement](https://x.com/hemi_xyz/status/1962945758006550876).
 - [SushiSwap](https://www.sushi.com/hemi/swap) Supports swapping a wide variety of ERC20 tokens, all in the Hemi network. [Official announcement](https://x.com/SushiSwap/status/1841478744932036957).
+- [veHEMI Marketplace](https://vehemi.com) Peer-to-peer marketplace for buying and selling locked HEMI positions (veHEMI NFTs). [Official announcement](https://x.com/vehemi_com/status/1975243978589995195).
 
 ### Sites that do not support the HEMI token
 
